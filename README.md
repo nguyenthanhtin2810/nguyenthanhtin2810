@@ -1,7 +1,7 @@
 ### Hello!!! 👋👋👋
 * 💻 My name is Tin Nguyen
 * 🎓 I'm a student at UIT
-* 🧠 I'm learning Machine Learning & Computer Vision
+* 🧠 I'm learning Machine Learning & Deep Learning in Computer Vision
   
 ### Skills
 <p align="left">
