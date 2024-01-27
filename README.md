@@ -1,5 +1,5 @@
 ### Hello!!! 👋👋👋
-* 💻 My name is Tin Nguyen
+* 💻 My name is Nguyen Thanh Tin
 * 🎓 I'm a student at UIT
 * 🧠 I'm learning Machine Learning & Deep Learning in Computer Vision
 
